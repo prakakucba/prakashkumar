@@ -1,0 +1,9 @@
+{
+	"name": "prakashkumarADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f06866c6-cf0e-4105-8eb7-d340bc6b3fe4",
+		"tenantId": "55c19447-6a0f-488e-95ac-f8c8290bb41d"
+	}
+}
